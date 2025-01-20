@@ -1,6 +1,6 @@
 # odin-recipes
 
-This simple project will allow users who use to discover several different recipes from various resources.
+This simple project will allow users to discover several different recipes from various resources.
 
 ### Skills and Resources Used
 
